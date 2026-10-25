@@ -1,0 +1,24 @@
+"GameInfo"
+{
+    game "The Ship - Hammer++ Editor"
+    title "The Ship"
+    type "multiplayer_only"
+    FileSystem
+    {
+        SteamAppId 2400
+        SearchPaths
+        {
+            Game+Mod+Mod_Write+Default_Write_Path "|gameinfo_path|."
+            Game "C:/Program Files (x86)/Steam/steamapps/common/The Ship/ship"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/The Ship/vpks/depot_2401_dir.vpk"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/The Ship/vpks/depot_2402_dir.vpk"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/The Ship Dedicated Server/ship"
+            Game "D:/Projekt/The ship/Ship_SDK_20150423/The Ship/ship"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/Source SDK Base 2013 Multiplayer/hl2/hl2_misc_dir.vpk"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/Source SDK Base 2013 Multiplayer/hl2/hl2_textures_dir.vpk"
+            Game "C:/Program Files (x86)/Steam/steamapps/common/Source SDK Base 2013 Multiplayer/hl2"
+            Platform "C:/Program Files (x86)/Steam/steamapps/common/Source SDK Base 2013 Multiplayer/platform"
+        }
+    }
+}
+

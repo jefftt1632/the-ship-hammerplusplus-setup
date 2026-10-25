@@ -1,0 +1,32 @@
+"Configs"
+{
+	"Games"
+	{
+		"The Ship"
+		{
+			"GameDir"		"D:\Projekt\The ship\hammerpp_editor"
+			"Hammer"
+			{
+				"GameData0"		"D:\Projekt\The ship\Ship_SDK_20150423\SourceSDK\bin\source2009\bin\ship.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"C:\Program Files (x86)\Steam\steamapps\common\The Ship\ship.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Projekt\The ship\Ship_SDK_20150423\SourceSDK\bin\ship\bin\vbsp.exe"
+				"Vis"		"D:\Projekt\The ship\Ship_SDK_20150423\SourceSDK\bin\ship\bin\vvis.exe"
+				"Light"		"D:\Projekt\The ship\Ship_SDK_20150423\SourceSDK\bin\ship\bin\vrad.exe"
+				"GameExeDir"		"C:\Program Files (x86)\Steam\steamapps\common\The Ship"
+				"MapDir"		"D:\Projekt\The ship"
+				"BSPDir"		"C:\Program Files (x86)\Steam\steamapps\common\The Ship\ship\maps"
+				"PrefabDir"		"C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\Prefabs"
+				"CordonTexture"		"tools/toolsnodraw"
+				"MaterialExcludeCount"		"0"
+				"Previous"		"1"
+			}
+		}
+	}
+	"SDKVersion"		"5"
+}
